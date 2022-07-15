@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!-- - 👋 I’m @GonzoTrickster9899
 - 👀 I’m interested in ... math, programming and games.
