@@ -9,13 +9,13 @@
 <img src="https://img.shields.io/badge/-VB.NET-512BD4?logo=.net&logoColor=fff"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff"> <img src = "https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff"> <img src = "https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=fff"> -->
 
 <h1 align="center">Hi 👋, I'm Gonzo Trickster</h1>
-<h3 align="center">I am fourth year student in Bicol University College of Science.</h3>
+<h3 align="center">I am a graduate BS Information Technology student in Bicol University College of Science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzotrickster9899&label=Profile%20views&color=0e75b6&style=flat" alt="gonzotrickster9899" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzotrickster9899&label=Profile%20views&color=0e75b6&style=flat" alt="gonzotrickster9899" /> </p> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gonzotrickster9899" alt="gonzotrickster9899" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Lansagwot" target="blank"><img src="https://img.shields.io/twitter/follow/@lansagwot?logo=twitter&style=for-the-badge" alt="@lansagwot" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Lansagwot" target="blank"><img src="https://img.shields.io/twitter/follow/@lansagwot?logo=twitter&style=for-the-badge" alt="@lansagwot" /></a> </p> -->
 
 - 🔭 I’m currently working on **Doormie**
 
