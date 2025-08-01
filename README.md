@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.lancelotoleriana-portfolio.netlify.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://lancelotoleriana-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/lancelot-oleriana-a891a6204/" target="_blank" rel="noopener noreferrer">
